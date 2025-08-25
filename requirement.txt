@@ -1,2 +1,4 @@
 robotframework-requests
 robotframework-appiumlibrary
+robotframework
+python-dotenv
