@@ -29,3 +29,6 @@ automation/
 │
 ├── libraries/
 │   └── mylib.py         # custom Python libraries
+
+
+You can test the first api over this command: python -m robot api_test/get_balance_user.robot
